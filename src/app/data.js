@@ -1,0 +1,46 @@
+export const projects = [
+	{
+		title: 'Portfolio',
+		description: `Portfolio website, inspiration from the portfolio of Dennis Snellenberg.`,
+		description2: `Tech Stack: NextJs, Sass, JavaScript, Framer Motion and GSAP.`,
+		description3: `Ensured full responsiveness across various devices for optimal user engagement. But may vary because of development.`,
+		src: 'portfolio_new.png',
+		link: 'https://github.com/Harsh-9110/Harsh',
+		color: '#ffc6a6',
+	},
+	{
+		title: 'PhishGuard',
+		description: `Comprehensive Security Platform: PhishGuard is a full-fledged phishing detection system designed to identify and analyze suspicious websites using advanced machine learning techniques, ensuring user protection in real-time.`,
+		description2: `Tech Stack: The platform utilizes Postgres DB with Prisma ORM, Vercel DB, Lucia for authentication, Shadcn UI components, Tailwind CSS for styling, and real-time form validation using React Hook Form and Zod. `,
+		description3: `Additional Features: Includes support for light, dark, and system themes, a functional URL search field, real-time reporting, and ML-powered URL scanning — providing users with detailed threat analysis and confidence scores.`,
+		src: 'phishguard.png',
+		link: 'https://github.com/Harsh-9110/PhishGuard',
+		color: '#e5e0ff',
+	},
+	{
+		title: ' e-AROGYATA',
+		description: `The e-AROGYATA platform is built using a robust and scalable tech stack tailored for modern healthcare solutions. The front-end is developed using HTML, CSS, JavaScript, React.js, and EJS, while the backend leverages Node.js, Express.js, and MongoDB. Authentication and ensuring secure login for all users.`,
+		description2: `This AI-driven system incorporates TensorFlow-based machine learning models to predict OPD queue load, bed availability, and medicine demand.`,
+        description3: `AI chatbots powered by neural networks to handle patient queries efficiently. The entire system follows a modular architecture for easy maintenance and expansion. With real-time data analytics, user-friendly design.`,
+		src: 'Pitch.png',
+		link: 'https://github.com/Harsh-9110/e-AROGYATA',
+		color: '#e1f0da',
+	},
+	{
+		title: 'Only Cars',
+		description: `Curated Car Showcase: This platform is designed for automotive enthusiasts to explore luxury, vintage, and unique car collections. It offers an immersive experience with high-resolution galleries, model specs, and brand insights—all in one place.`,
+		description2: `Tech Stack: Built using Next.js, Tailwind CSS, ShadCN, and TypeScript, the platform supports fast performance and clean visuals. CMS integration allows easy content management, while image optimization ensures smooth user experience across devices.`,
+
+		src: 'template.mp4',
+		link: 'https://github.com/Harsh-9110/Only-Cars',
+		color: '#ffe3e1',
+	},
+	{
+		title: '',
+		description: ``,
+		description2: ``,
+		src: '',
+		link: '',
+		color: '#faebd700',
+	},
+];
